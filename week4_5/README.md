@@ -1,4 +1,4 @@
-<img width="1304" height="1426" alt="115f02d43abcefb5554ead3f82c3eee6" src="https://github.com/user-attachments/assets/ed347154-d87b-4b89-99aa-1125927ac806" />### Week4 功能
+### Week4 功能
 
 1. 使用 React 创建前端页面。
 
