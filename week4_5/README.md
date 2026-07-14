@@ -32,7 +32,7 @@
 
 8. 前端使用 Ant Design 的 Menu 组件实现不同图表之间的切换。
 
-<img width="234" height="254" alt="image" src="https://github.com/user-attachments/assets/38878730-8a98-4d45-8dfc-b34edb04c49f" />
+<img width="819" height="815" alt="image" src="https://github.com/user-attachments/assets/15d550a8-cc38-4ca1-a0cf-878af0419c09" />
 
-
-<img width="1304" height="1426" alt="115f02d43abcefb5554ead3f82c3eee6" src="https://github.com/user-attachments/assets/64445e3c-a362-4209-8df2-3d082194923a" />
+<img width="803" height="407" alt="image" src="https://github.com/user-attachments/assets/7f415a92-b85a-4c81-82ab-859f77f5f6e3" />
+<img width="801" height="415" alt="image" src="https://github.com/user-attachments/assets/e045cdff-c8f5-42d7-a3bb-b8d09e8c1275" />
